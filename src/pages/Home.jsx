@@ -136,7 +136,8 @@ function SignatureExperience() {
           <div className="lg:col-span-6 lg:order-2 relative">
             <motion.div style={{ y }} className="luxe-frame relative aspect-[4/5] shadow-luxe">
               <img
-                src="https://images.unsplash.com/photo-1583241800698-9c3a8b8d3b95?auto=format&fit=crop&w=900&q=85"
+                src="https://images.unsplash.com/photo-1555820585-c5ae44394b79?q=80"
+
                 alt="Rose petals and luxury serums"
                 className="w-full h-full object-cover"
                 loading="lazy"
