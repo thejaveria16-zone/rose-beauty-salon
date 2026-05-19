@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌹 Rose Beauty Salon
 
 > *Where Beauty Becomes Art*
@@ -146,3 +147,6 @@ This project is provided for portfolio and educational purposes.
 ---
 
 Crafted with intention. 🌹
+=======
+# rose-beauty-salon
+>>>>>>> 462ada3c1d0f24d0f96a1f6996f15e743bde2cf1
