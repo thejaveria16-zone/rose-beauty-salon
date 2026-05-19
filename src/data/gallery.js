@@ -1,0 +1,88 @@
+// Gallery imagery — editorial beauty photography
+// All images sourced from Unsplash (free to use, no attribution required)
+export const gallery = [
+  {
+    id: 'g1',
+    src: 'https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Bridal hair styling close-up',
+    category: 'Hair',
+    span: 'tall',
+  },
+  {
+    id: 'g2',
+    src: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Makeup brushes and palette',
+    category: 'Makeup',
+    span: 'wide',
+  },
+  {
+    id: 'g3',
+    src: 'https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Facial treatment with mask',
+    category: 'Skin',
+    span: 'normal',
+  },
+  {
+    id: 'g4',
+    src: 'https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Spa wellness candle ambience',
+    category: 'Spa',
+    span: 'normal',
+  },
+  {
+    id: 'g5',
+    src: 'https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Editorial beauty portrait',
+    category: 'Editorial',
+    span: 'tall',
+  },
+  {
+    id: 'g6',
+    src: 'https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Nail art detail',
+    category: 'Nails',
+    span: 'normal',
+  },
+  {
+    id: 'g7',
+    src: 'https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Modern salon interior',
+    category: 'Atelier',
+    span: 'wide',
+  },
+  {
+    id: 'g8',
+    src: 'https://images.unsplash.com/photo-1503236823255-94609f598e71?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Bridal makeup softly lit',
+    category: 'Bridal',
+    span: 'normal',
+  },
+  {
+    id: 'g9',
+    src: 'https://images.unsplash.com/photo-1571875257727-256c39da42af?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Hairstyling tools arrangement',
+    category: 'Hair',
+    span: 'tall',
+  },
+  {
+    id: 'g10',
+    src: 'https://images.unsplash.com/photo-1610992015732-2449b76344bc?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Glowing skin portrait',
+    category: 'Skin',
+    span: 'normal',
+  },
+  {
+    id: 'g11',
+    src: 'https://images.unsplash.com/photo-1583241800698-9c3a8b8d3b95?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Petals and beauty serums',
+    category: 'Editorial',
+    span: 'normal',
+  },
+  {
+    id: 'g12',
+    src: 'https://images.unsplash.com/photo-1519415943484-9fa1873496d4?auto=format&fit=crop&w=1200&q=80',
+    alt: 'Massage therapy in spa',
+    category: 'Spa',
+    span: 'wide',
+  },
+];
